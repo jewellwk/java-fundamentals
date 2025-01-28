@@ -113,21 +113,6 @@ Hello, Alice!
 
 ---
 
-## Exercise 6: Classes and Objects
-
-### Python Example:
-```python
-class Person:
-    def __init__(self, name):
-        self.name = name
-
-    def greet(self):
-        return f"Hello, {self.name}!"
-
-p = Person("Bob")
-print(p.greet())
-```
-
 ### Java Task:
 Create a Java class named `Person` with a field `name` and a method `greet` that returns a greeting message. Instantiate the class with the name "Bob" and call the `greet` method.
 
@@ -140,7 +125,7 @@ Hello, Bob!
 
 ---
 
-## Exercise 7: Arrays vs Lists
+## Exercise 6: Arrays vs Lists
 
 ### Python Example:
 ```python
@@ -165,7 +150,7 @@ Create an array of integers in Java with the values `{1, 2, 3, 4, 5}` and print 
 
 ---
 
-## Exercise 8: Error Handling
+## Exercise 7: Error Handling
 
 ### Python Example:
 ```python
